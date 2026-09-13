@@ -1,0 +1,6 @@
+{
+  "name": "Cloud Agent Learning Lab",
+  "description": "Interactive step-by-step learning platform for Google Dialogflow CX & CX Agent Studio capstone projects with task progress tracking, interactive simulator, data files sandbox, and evaluation test runner.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
